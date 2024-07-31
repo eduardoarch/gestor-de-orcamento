@@ -13,7 +13,7 @@ Um projeto simples e eficiente para gerenciar orçamentos pessoais. Com o **Gest
 
 - **HTML5** para estrutura e marcação semântica.
 - **CSS3** para estilização e design responsivo.
-- **JavaScript puro** para interatividade e funcionalidades dinâmicas.
+- **JavaScript** para interatividade e funcionalidades dinâmicas.
 
 ## Funcionalidades
 
